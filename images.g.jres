@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAu8sMAAAAAAC93csAAAAAAN3c3QwAAAAAXcbdywAAsLtb1dzNAAC7V2t13M0AsFtVvVfbzQCw1VFlvdXNALAXIldXVc2wuyayRWVVxlu8ddZEV1XHtbBX3URWZbULANtERFVVuwAAIExEe1YLAAAAALSwuwAAAAAACwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "zombie"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
